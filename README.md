@@ -102,7 +102,7 @@ Output file will be created in the working-dir/runs/detect/obj-tracking with ori
   <tr>
     <td><img src="https://user-images.githubusercontent.com/125909533/235033303-0c6fadee-4a1e-46b7-a19e-fab3933871c9.png"></td>
     <td><img src="https://user-images.githubusercontent.com/125909533/235035555-e2a8c3ac-3e90-402f-b5a3-f8cbd42055d9.png"></td>
-     <td><img src=""https://user-images.githubusercontent.com/125909533/235037903-3d4f6418-24d0-4d35-87fc-e6cdd4b4a1f0.png"></td>
+     <td><img src="https://user-images.githubusercontent.com/125909533/235037903-3d4f6418-24d0-4d35-87fc-e6cdd4b4a1f0.png"></td>
   </tr>
  </table>
 
