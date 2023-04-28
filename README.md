@@ -18,12 +18,12 @@ Implementation of paper - [YOLOv7: Trainable bag-of-freebies sets new state-of-t
     To get started, install the proper dependencies either via Anaconda or Pip. I recommend Anaconda route for people using a GPU as it configures CUDA toolkit version   for you.
     
 ## Conda (recommended)
-    # Tensorflow CPU
-        conda env create -f conda-cpu.yml
-        conda activate yolov4_tracking-cpu
+       CPU
+        conda create -n yolov7_tracking python=3.11(your puthon version)
+        conda activate yolov4_tracking
 
-    # Tensorflow GPU
-        conda env create -f conda-gpu.yml
+       GPU
+        conda create -n yolov7_tracking python=3.11(your puthon version)
         conda activate yolov4_tracking-gpu
         
 ## pip required
