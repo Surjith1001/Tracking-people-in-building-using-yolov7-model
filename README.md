@@ -87,7 +87,7 @@ python detect_or_track.py --source "your IP Camera Stream URL" --device 0
 python detect_or_track.py --weights yolov7.pt --source "street.mp4" --colored-trk
 
 #for saving tracks centroid, track id and bbox coordinates
-python detect_or_track.py --weights yolov7.pt --source "street.mp4" --save-txt --save-bbox-dim
+python detect_or_track.py --weights yolov7.pt --no-trace --view-img --nosave --source street.mp4 --show-fps --seed 2 --track --classes 0 --show-track --unique-track-color
         
 Output file will be created in the working-dir/runs/detect/obj-tracking with original filename
 
